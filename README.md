@@ -54,3 +54,6 @@ cadastro-automatico/
 1. Instale as bibliotecas:
 ```bash
 pip install pandas openpyxl pyautogui
+
+Projeto desenvolvido por Luana Alves como parte do seu portfólio em automação de tarefas com Python.
+Fique à vontade para conhecer mais projetos no meu perfil: github.com/Luaninhadejulho
